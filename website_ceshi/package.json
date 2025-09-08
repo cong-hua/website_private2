@@ -1,0 +1,11 @@
+{
+  "name": "huacong-website",
+  "version": "1.0.0",
+  "description": "华聪的个人网站",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site - no build needed'"
+  },
+  "homepage": "./",
+  "dependencies": {}
+}
