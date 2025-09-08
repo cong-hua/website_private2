@@ -1,0 +1,7 @@
+{
+  "name": "huacong-website",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "expose": 80
+}
